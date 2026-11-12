@@ -1,0 +1,22 @@
+# Secrets
+bot_settings.py
+API key*
+*.key
+*.pem
+.env
+.env.*
+
+# State files
+bot_state.json
+daily_state.json
+mt5_auto_state.json
+KILL_SWITCH.txt
+MT5_PAUSE_SWITCH.txt
+MT5_KILL_SWITCH.txt
+
+# Logs
+*.csv
+
+# Python
+__pycache__/
+*.pyc
